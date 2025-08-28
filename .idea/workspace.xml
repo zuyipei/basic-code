@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="" />
+    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-codeblock/src/com/itheima/codeblockdemo1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-codeblock/src/com/itheima/codeblockdemo1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/test/RuntimeDemo1.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/oop-final/src/com/itheima/test1/Test.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -73,6 +85,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/code/IdeaProjects/basic-code",
@@ -86,7 +100,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true",
     "应用程序.App (1).executor": "Run",
     "应用程序.App.executor": "Run",
@@ -151,7 +165,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.App (1)">
+  <component name="RunManager" selected="应用程序.Main">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="puzzlegame" />
@@ -168,6 +182,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,26 +219,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test8" />
-      <module name="mylist" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.App (1)" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.App" />
         <item itemvalue="应用程序.StudentSystem" />
-        <item itemvalue="应用程序.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -262,21 +270,37 @@
       <workItem from="1755822531828" duration="86000" />
       <workItem from="1755822629270" duration="33207000" />
       <workItem from="1756253343938" duration="23000" />
-      <workItem from="1756348062084" duration="3285000" />
+      <workItem from="1756348062084" duration="4643000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1756362998678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756362998678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1756363632525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756363632525</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Test/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/myapi/src/Main.java</url>
           <line>11</line>

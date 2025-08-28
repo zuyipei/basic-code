@@ -22,6 +22,7 @@ public class Student {
         System.out.println("有参构造");
         this.name = name;
         this.age = age;
+        System.out.println("有参构造");
     }
 
     public Student(String name) {
