@@ -9,6 +9,7 @@ public class Main {
             System.out.println("i = " + i);
 
         System.out.println("测试一下git提交");
+        System.out.println("测试一下git提交2");
         }
     }
 }
