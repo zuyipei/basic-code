@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eedaffc9-7d24-4029-963f-aa79d7078f4e" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="31G3mu5B3buDNUKBE88L19fUYX8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/code/IdeaProjects/basic-code/mystatic/src/com/itheima/a03staticdemo4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Demo.executor": "Run",
+    "应用程序.StudentTest.executor": "Run",
+    "应用程序.Test.executor": "Run",
+    "应用程序.TestDemo.executor": "Run",
+    "应用程序.com.itheima.a04staticdemo4.StudentTest.executor": "Run",
+    "应用程序.com.itheima.a05staticdemo5.Test.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\IdeaProjects\basic-code\mystatic\src\com\itheima\a03staticdemo4" />
+      <recent name="D:\code\IdeaProjects\basic-code\mystatic\src\com\itheima" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a05staticdemo5.Demo" />
+      <module name="mystatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.a05staticdemo5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a03staticdemo3.Test" />
+      <module name="mystatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.a03staticdemo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a02staticdemo2.TestDemo" />
+      <module name="mystatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.a02staticdemo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.a04staticdemo4.StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a04staticdemo4.StudentTest" />
+      <module name="mystatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.a04staticdemo4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.a05staticdemo5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a05staticdemo5.Test" />
+      <module name="mystatic" />
+      <option name="PROGRAM_PARAMETERS" value="Hello World Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.a05staticdemo5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.Demo" />
+      <item itemvalue="应用程序.com.itheima.a04staticdemo4.StudentTest" />
+      <item itemvalue="应用程序.com.itheima.a05staticdemo5.Test" />
+      <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.TestDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Demo" />
+        <item itemvalue="应用程序.com.itheima.a05staticdemo5.Test" />
+        <item itemvalue="应用程序.com.itheima.a04staticdemo4.StudentTest" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="eedaffc9-7d24-4029-963f-aa79d7078f4e" name="更改" comment="" />
+      <created>1755136743932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755136743932</updated>
+      <workItem from="1755136745089" duration="11971000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
