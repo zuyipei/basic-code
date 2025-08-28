@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="第一次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="第3次提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +287,7 @@
       <workItem from="1756364837631" duration="2811000" />
       <workItem from="1756367700143" duration="109000" />
       <workItem from="1756367829559" duration="26000" />
-      <workItem from="1756368049246" duration="1222000" />
+      <workItem from="1756368049246" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -364,7 +361,47 @@
       <option name="project" value="LOCAL" />
       <updated>1756368872378</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1756369285835</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756369285835</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第2次提交">
+      <option name="closed" value="true" />
+      <created>1756369309736</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756369309736</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第2次提交">
+      <option name="closed" value="true" />
+      <created>1756369378933</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756369378933</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第3次提交">
+      <option name="closed" value="true" />
+      <created>1756369442096</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756369442096</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第3次提交">
+      <option name="closed" value="true" />
+      <created>1756369566041</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1756369566041</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +420,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第2次提交" />
+    <MESSAGE value="第3次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第3次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
