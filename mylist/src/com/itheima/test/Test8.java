@@ -47,23 +47,33 @@ public class Test8 {
     //技巧：
     //如果我们要返回多个数据，可以把这些数据先放到一个容器当中，再把容器返回
     //集合 数组
-    public static ArrayList<Phone> getPhoneInfo(ArrayList<Phone> list){
-        //定义一个集合用于存储价格低于3000的手机对象
+//    public static ArrayList<Phone> getPhoneInfo(ArrayList<Phone> list){
+//        //定义一个集合用于存储价格低于3000的手机对象
+//        ArrayList<Phone> resultList = new ArrayList<>();
+//        //遍历集合
+//        for (int i = 0; i < list.size(); i++) {
+//            Phone p = list.get(i);
+//            int price = p.getPrice();
+//            //如果当前手机的价格低于3000，那么就把手机对象添加到resultList中
+//            if(price < 3000){
+//                resultList.add(p);
+//            }
+//        }
+//        //返回resultList
+//        return resultList;
+//
+//    }
+
+    public static ArrayList<Phone> getPhoneInfo(ArrayList<Phone> list) {
         ArrayList<Phone> resultList = new ArrayList<>();
-        //遍历集合
         for (int i = 0; i < list.size(); i++) {
             Phone p = list.get(i);
-            int price = p.getPrice();
-            //如果当前手机的价格低于3000，那么就把手机对象添加到resultList中
-            if(price < 3000){
+            if(p.getPrice() < 3000){
                 resultList.add(p);
             }
         }
-        //返回resultList
         return resultList;
-
     }
-
 
 
 }

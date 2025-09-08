@@ -34,14 +34,6 @@ public class Test7 {
 
 
     public static int getIndex(ArrayList<User> list, String id) {
-        for (int i = 0; i < list.size(); i++) {
-            User u = list.get(i);
-            String uid = u.getId();
-            if(uid.equals(id)){
-                return i;
-            }
-        }
-
-        return -1;
+        return Test6.getIndex(list, id);
     }
 }

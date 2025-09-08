@@ -24,7 +24,7 @@ public class Test6 {
         list.add(u3);
 
         //4.调用方法查看id是否存在
-        boolean flag = contains(list, "heima0010");
+        boolean flag = contains(list, "heima001");
 
         //5.打印结果
         System.out.println(flag);

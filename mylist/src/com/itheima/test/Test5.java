@@ -11,7 +11,7 @@ public class  Test5 {
         //2.键盘录入学生的信息并添加到集合当中
         Scanner sc = new Scanner(System.in);
         for (int i = 0; i < 3; i++) {
-            Student s = new Student();
+            Student s = new Student(); //记得放在for循环里面
             System.out.println("请输入学生的姓名");
             String name = sc.next();
             System.out.println("请输入学生的年龄");

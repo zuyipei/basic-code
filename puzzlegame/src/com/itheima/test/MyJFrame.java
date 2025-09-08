@@ -39,8 +39,9 @@ public class MyJFrame extends JFrame implements ActionListener {
 
 
         //那按钮添加到整个界面当中
-        this.getContentPane().add(jtb1);
         this.getContentPane().add(jtb2);
+        this.getContentPane().add(jtb1);
+
 
         //让整个界面显示出来
         this.setVisible(true);

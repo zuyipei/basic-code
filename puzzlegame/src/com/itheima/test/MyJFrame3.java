@@ -3,9 +3,6 @@ package com.itheima.test;
 import javax.swing.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
-import java.security.Key;
 
 public class MyJFrame3 extends JFrame implements KeyListener {
 
@@ -49,7 +46,7 @@ public class MyJFrame3 extends JFrame implements KeyListener {
     //每一个按键都有一个编号与之对应
     @Override
     public void keyPressed(KeyEvent e) {
-        System.out.println("按下不松");
+        System.out.println("按下");
     }
 
     @Override

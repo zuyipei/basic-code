@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="第3次提交" />
+    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="第4次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zuyi-test/zuyi-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuyi-test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/myapi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a03runtimedemo/RuntimeDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/mylist/src/com/itheima/test/Test8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mylist/com/itheima/test/Test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mylist/com/itheima/test/Test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mylist/com/itheima/test/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mylist/com/itheima/test/Test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mylist/com/itheima/test/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mylist/com/itheima/test/Test8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/puzzlegame/com/itheima/test/MyJFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/puzzlegame/com/itheima/test/MyJFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/puzzlegame/com/itheima/test/MyJFrame3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/puzzlegame/com/itheima/test/MyJFrame3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/puzzlegame/com/itheima/ui/GameJFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/puzzlegame/com/itheima/ui/GameJFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/test/MyJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/test/MyJFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/test/MyJFrame3.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/test/MyJFrame3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/GameJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/GameJFrame.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,18 +51,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "zuyipei"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zuyipei&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:zuyipei/basic-code.git",
-    "accountId": "f0cf3aa9-93df-445b-bf1f-881e76a9a5b6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:zuyipei/basic-code.git&quot;,
+    &quot;accountId&quot;: &quot;f0cf3aa9-93df-445b-bf1f-881e76a9a5b6&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/oop-final/src/com/itheima/test1/Test.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -113,7 +135,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.语言默认设置&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.App (1).executor&quot;: &quot;Run&quot;,
     &quot;应用程序.App.executor&quot;: &quot;Run&quot;,
@@ -144,9 +166,11 @@
     &quot;应用程序.StringJoinerDemo2.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.StudentSystem.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Test.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test1.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Test3.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Test4.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Test5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test6.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Test7.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Test8.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.com.itheima.a01interfacedemo1.Test.executor&quot;: &quot;Run&quot;,
@@ -178,20 +202,20 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Main">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="puzzlegame" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.studentsystem.App" />
-      <module name="studentsystem" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test1" />
+      <module name="puzzlegame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.studentsystem.*" />
+          <option name="PATTERN" value="com.itheima.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,19 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.studentsystem.StudentSystem" />
-      <module name="studentsystem0" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test3" />
+      <module name="puzzlegame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.studentsystem.*" />
+          <option name="PATTERN" value="com.itheima.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +236,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.studentsystem.Test" />
-      <module name="studentsystem" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test4" />
+      <module name="puzzlegame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.studentsystem.*" />
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test8" />
+      <module name="mylist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.App (1)" />
-        <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.App" />
-        <item itemvalue="应用程序.StudentSystem" />
+        <item itemvalue="应用程序.Test4" />
+        <item itemvalue="应用程序.Test3" />
+        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +317,13 @@
       <workItem from="1756364837631" duration="2811000" />
       <workItem from="1756367700143" duration="109000" />
       <workItem from="1756367829559" duration="26000" />
-      <workItem from="1756368049246" duration="1534000" />
+      <workItem from="1756368049246" duration="11886000" />
+      <workItem from="1756454771134" duration="2293000" />
+      <workItem from="1756686273492" duration="15000" />
+      <workItem from="1756686765365" duration="550000" />
+      <workItem from="1756690532825" duration="10672000" />
+      <workItem from="1756528394652" duration="9961000" />
+      <workItem from="1757300951104" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -401,7 +437,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756369566041</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="第3次提交">
+      <option name="closed" value="true" />
+      <created>1756369610749</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1756369610749</updated>
+    </task>
+    <task id="LOCAL-00016" summary="第4次提交">
+      <option name="closed" value="true" />
+      <created>1756369669217</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1756369669217</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +474,8 @@
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第2次提交" />
     <MESSAGE value="第3次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第3次提交" />
+    <MESSAGE value="第4次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第4次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

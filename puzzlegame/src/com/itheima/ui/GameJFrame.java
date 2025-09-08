@@ -6,7 +6,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.util.Arrays;
 import java.util.Random;
 
 public class GameJFrame extends JFrame implements KeyListener,ActionListener{
@@ -26,9 +25,6 @@ public class GameJFrame extends JFrame implements KeyListener,ActionListener{
 
     //定义一个变量，记录当前展示图片的路径
     String path = "puzzlegame\\image\\animal\\animal3\\";
-
-
-
 
 
     //定义一个二维数组，存储正确的数据
@@ -57,7 +53,6 @@ public class GameJFrame extends JFrame implements KeyListener,ActionListener{
 
         //初始化菜单
         initJMenuBar();
-
 
         //初始化数据（打乱）
         initData();
@@ -117,7 +112,7 @@ public class GameJFrame extends JFrame implements KeyListener,ActionListener{
 
         if (victory()) {
             //显示胜利的图标
-            JLabel winJLabel = new JLabel(new ImageIcon("C:\\Users\\moon\\IdeaProjects\\basic-code\\puzzlegame\\image\\win.png"));
+            JLabel winJLabel = new JLabel(new ImageIcon("puzzlegame\\image\\win.png"));
             winJLabel.setBounds(203,283,197,73);
             this.getContentPane().add(winJLabel);
         }
@@ -129,16 +124,16 @@ public class GameJFrame extends JFrame implements KeyListener,ActionListener{
 
 
         //路径分为两种：
-        //绝对路径：一定是从盘符开始的。C:\  D：\
-        //相对路径：不是从盘符开始的
-        //相对路径相对当前项目而言的。 aaa\\bbb
-        //在当前项目下，去找aaa文件夹，里面再找bbb文件夹。
+        //1.绝对路径：一定是从盘符开始的。C:\  D：\
+        //2.相对路径：不是从盘符开始的
+        //3.相对路径相对当前项目而言的。 aaa\\bbb。 在当前项目下，去找aaa文件夹，里面再找bbb文件夹。
 
         //细节：
-        //先加载的图片在上方，后加载的图片塞在下面。
-        //外循环 --- 把内循环重复执行了4次。
+        //1.先加载的图片在上方，后加载的图片塞在下面。
+        //2.没有第16张图片，添加一个空白。
+        //外循环 --- 4行
         for (int i = 0; i < 4; i++) {
-            //内循环 --- 表示在一行添加4张图片
+            //内循环 --- 一行添加4张图片
             for (int j = 0; j < 4; j++) {
                 //获取当前要加载图片的序号
                 int num = data[i][j];

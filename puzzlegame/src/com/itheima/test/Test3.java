@@ -36,7 +36,7 @@ public class Test3 {
             public void actionPerformed(ActionEvent e) {
                 System.out.println("达咩~不要点我哟~");
             }
-        });
+        });//匿名内部类
 
 
         //把按钮添加到界面当中
