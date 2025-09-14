@@ -9,6 +9,7 @@ import java.util.StringJoiner;
 //表示当前的接口是一个标记性接口
 //现在Cloneable表示一旦实现了，那么当前类的对象就可以被克降
 //如果没有实现，当前类的对象就不能克隆
+
 public class User implements Cloneable {
     private int id;
     private String username;

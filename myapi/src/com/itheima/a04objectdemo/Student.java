@@ -51,19 +51,14 @@ public class Student {
         this.age = age;
     }
 
-
+    //重写之后的equals方法， 比较对象内部的属性值。
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Student student = (Student) o;
+        Student student = (Student) o; //向下强转
         return age == student.age && Objects.equals(name, student.name);
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(name, age);
-    }
 
     public String toString() {
         return name + ", " + age;

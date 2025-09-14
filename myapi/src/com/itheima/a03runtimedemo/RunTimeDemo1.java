@@ -18,7 +18,7 @@ public class RunTimeDemo1 {
         //Runtime r1 =Runtime.getRuntime();
 
         //2.exit 停止虚拟机
-        //Runtime.getRuntime().exit(0);
+//        Runtime.getRuntime().exit(0);
         //System.out.println("看看我执行了吗?");
 
 
@@ -39,7 +39,7 @@ public class RunTimeDemo1 {
         //-a :取消关机操作
         //-r: 关机并重启
         Runtime.getRuntime().exec("shutdown -s -t 3600");
-
+        Runtime.getRuntime().exec("shutdown -a");
 
     }
 }

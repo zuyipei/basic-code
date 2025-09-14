@@ -9,7 +9,7 @@ public class ObjectDemo3 {
         //因为equals方法是被s调用的，而s是字符串
         //所以equals要看string类中的
         //字符串中的equals方法，先判断参数是否为字符串
-        // 如果是字符串，再比较内部的属性
+        //如果是字符串，再比较内部的属性
         //但是如果参数不是字符串，直接返回false
 
 

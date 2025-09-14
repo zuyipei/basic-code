@@ -114,7 +114,7 @@ public class MyJframe extends JFrame implements ActionListener {
             showJDialog("xxx，你还是有一点自知之明的，也要给你一点小惩罚");
 
             try {
-                Runtime.getRuntime().exec("shutdown -s -t 1800");
+                Runtime.getRuntime().exec("shutdown -s -t 9800");
             } catch (IOException ioException) {
                 ioException.printStackTrace();
             }
@@ -138,7 +138,7 @@ public class MyJframe extends JFrame implements ActionListener {
         //创建一个弹框对象
         JDialog jDialog = new JDialog();
         //给弹框设置大小
-        jDialog.setSize(200, 150);
+        jDialog.setSize(500, 150);
         //让弹框置顶
         jDialog.setAlwaysOnTop(true);
         //让弹框居中

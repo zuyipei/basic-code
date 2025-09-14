@@ -30,7 +30,7 @@ public class SystemDemo1 {
         //参数三:目的地，我要把数据拷贝到哪个数组中
         //参数四:目的地数组的索引。
         //参数五:拷贝的个数
-        //System.arraycopy(arr1,0,arr2,e,5);
+        System.arraycopy(arr1,0,arr2,4,3);
 
 
         //课堂练习1:

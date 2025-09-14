@@ -17,12 +17,11 @@ public class BigIntegerDemo1 {
 
 
         //1.获取一个随机的大整数
-        /* Random r=new Random();
-            for (int i = e; i < 100; i++) {
-            BigInteger bd1 = new BigInteger(4,r);
-            System.out.println(bd1);//[@ ~ 15]}
-            }
-        */
+//         Random r=new Random();
+//            for (int i = 0; i < 100; i++) {
+//            BigInteger bd1 = new BigInteger(4,r);
+//            System.out.println(bd1);//[@ ~ 15]}
+//            }
 
         //2.获取一个指定的大整数，可以超出long的取值范围
         //细节:字符串中必须是整数，否则会报错
@@ -40,8 +39,8 @@ public class BigIntegerDemo1 {
         //1.字符串中的数字必须是整数
         //2.字符串中的数字必须要跟进制吻合。
         //比如二进制中，那么只能写日和1，写其他的就报错。
-        BigInteger bd4 = new BigInteger("123", 2);
-        System.out.println(bd4);
+//        BigInteger bd4 = new BigInteger("123", 2);
+//        System.out.println(bd4);
 
         //4.静态方法获取BigInteger的对象，内部有优化
         //细节:

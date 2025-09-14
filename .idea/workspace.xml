@@ -4,10 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="第4次提交">
+    <list default="true" id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="新分支laptop">
+      <change afterPath="$PROJECT_DIR$/myapi/lib/gson-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a08regexdemo/RegexDemo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myapi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/myapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/myapi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a01mathdemo/Mathdemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a01mathdemo/Mathdemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a02systemdemo/SystemDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a02systemdemo/SystemDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a03runtimedemo/MyJframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a03runtimedemo/MyJframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a03runtimedemo/RunTimeDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a03runtimedemo/RunTimeDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/ObjectDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/ObjectDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/ObjectDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/ObjectDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/ObjectDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/ObjectDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a04objectdemo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapi/src/com/itheima/a06bigintegerdemo/BigIntegerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/myapi/src/com/itheima/a06bigintegerdemo/BigIntegerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a02systemdemo/SystemDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a02systemdemo/SystemDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a03runtimedemo/MyJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a03runtimedemo/MyJframe.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a03runtimedemo/RuntimeDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a03runtimedemo/RuntimeDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/ObjectDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/ObjectDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/ObjectDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/ObjectDemo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a04objectdemo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myapi/com/itheima/a06bigintegerdemo/BigIntegerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myapi/com/itheima/a06bigintegerdemo/BigIntegerDemo1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +85,9 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/oop-final/src/com/itheima/test1/Test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../develop/jdk/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../develop/jdk/lib/src.zip!/java.base/java/math/BigInteger.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../develop/jdk/lib/src.zip!/java.base/java/util/Objects.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -111,7 +147,7 @@
     "git-widget-placeholder": "laptop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/IdeaProjects/basic-code",
+    "last_opened_file_path": "D:/code/IdeaProjects/basic-code/myapi/src/com/itheima/a08regexdemo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -122,17 +158,31 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.语言默认设置",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true",
+    "应用程序.A01_DateDemo1.executor": "Run",
     "应用程序.App (1).executor": "Run",
     "应用程序.App.executor": "Run",
     "应用程序.ArrayListDemo1.executor": "Run",
     "应用程序.ArrayListDemo2.executor": "Run",
+    "应用程序.BigIntegerDemo1.executor": "Run",
     "应用程序.DogTest.executor": "Run",
     "应用程序.Main.executor": "Run",
     "应用程序.MathDemo1.executor": "Run",
+    "应用程序.MathDemo2.executor": "Run",
+    "应用程序.MathDemo3.executor": "Run",
+    "应用程序.Mathdemo4.executor": "Run",
     "应用程序.MethodDemo1.executor": "Run",
     "应用程序.MethodDemo4.executor": "Run",
+    "应用程序.ObjectDemo1.executor": "Run",
+    "应用程序.ObjectDemo2.executor": "Run",
+    "应用程序.ObjectDemo3.executor": "Run",
+    "应用程序.ObjectDemo4.executor": "Run",
+    "应用程序.ObjectsDemo1.executor": "Run",
+    "应用程序.RegexDemo10.executor": "Run",
+    "应用程序.RegexDemo2.executor": "Run",
+    "应用程序.RegexDemo3.executor": "Run",
+    "应用程序.RunTimeDemo1.executor": "Run",
     "应用程序.RuntimeDemo1.executor": "Run",
     "应用程序.ScannerDemo1.executor": "Run",
     "应用程序.StringBuilderDemo1.executor": "Run",
@@ -153,6 +203,7 @@
     "应用程序.StringJoinerDemo1.executor": "Run",
     "应用程序.StringJoinerDemo2.executor": "Run",
     "应用程序.StudentSystem.executor": "Run",
+    "应用程序.SystemDemo1.executor": "Run",
     "应用程序.Test.executor": "Run",
     "应用程序.Test1.executor": "Run",
     "应用程序.Test3.executor": "Run",
@@ -180,6 +231,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\IdeaProjects\basic-code\myapi\src\com\itheima\a08regexdemo" />
+      <recent name="D:\code\IdeaProjects\basic-code\myapi\lib" />
       <recent name="D:\code\IdeaProjects\basic-code" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -190,20 +243,26 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MathDemo1">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="puzzlegame" />
+  <component name="RunManager" selected="应用程序.A01_DateDemo1">
+    <configuration name="A01_DateDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a01jdk7datedemo.A01_DateDemo1" />
+      <module name="mydate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.a01jdk7datedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.a01mathdemo.MathDemo1" />
+    <configuration name="BigIntegerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a06bigintegerdemo.BigIntegerDemo1" />
       <module name="myapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.a01mathdemo.*" />
+          <option name="PATTERN" value="com.itheima.a06bigintegerdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test1" />
-      <module name="puzzlegame" />
+    <configuration name="RegexDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a08regexdemo.RegexDemo10" />
+      <module name="myapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="PATTERN" value="com.itheima.a08regexdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test3" />
-      <module name="puzzlegame" />
+    <configuration name="RegexDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a08regexdemo.RegexDemo2" />
+      <module name="myapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="PATTERN" value="com.itheima.a08regexdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.test.Test4" />
-      <module name="puzzlegame" />
+    <configuration name="RegexDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.a08regexdemo.RegexDemo3" />
+      <module name="myapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="PATTERN" value="com.itheima.a08regexdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MathDemo1" />
-        <item itemvalue="应用程序.App" />
-        <item itemvalue="应用程序.Test4" />
-        <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.A01_DateDemo1" />
+        <item itemvalue="应用程序.RegexDemo10" />
+        <item itemvalue="应用程序.RegexDemo3" />
+        <item itemvalue="应用程序.RegexDemo2" />
+        <item itemvalue="应用程序.BigIntegerDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +328,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="实体" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="68948dc6-af7a-47a2-812b-e259ae6731a6" name="更改" comment="" />
@@ -312,7 +374,11 @@
       <workItem from="1756690532825" duration="10672000" />
       <workItem from="1756528394652" duration="9961000" />
       <workItem from="1757300951104" duration="231000" />
-      <workItem from="1757301186330" duration="1570000" />
+      <workItem from="1757301186330" duration="8382000" />
+      <workItem from="1757385083178" duration="2430000" />
+      <workItem from="1757471239572" duration="14758000" />
+      <workItem from="1757756678702" duration="7161000" />
+      <workItem from="1757813065726" duration="4699000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -450,7 +516,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757301120438</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="新分支laptop">
+      <option name="closed" value="true" />
+      <created>1757302787062</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757302787062</updated>
+    </task>
+    <task id="LOCAL-00019" summary="新分支laptop">
+      <option name="closed" value="true" />
+      <created>1757309365542</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757309365542</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +554,8 @@
     <MESSAGE value="第2次提交" />
     <MESSAGE value="第3次提交" />
     <MESSAGE value="第4次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第4次提交" />
+    <MESSAGE value="新分支laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="新分支laptop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

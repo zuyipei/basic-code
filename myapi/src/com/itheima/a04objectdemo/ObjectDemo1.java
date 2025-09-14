@@ -10,14 +10,14 @@ public class ObjectDemo1 {
         //1.tostring 返回对象的字符串表示形式
         Object obj = new Object();
         String str1 = obj.toString();
-        System.out.println(str1);//java.lang.Object@119d7047
+        System.out.println(str1);//java.lang.Object@119d7047  包名.类名@地址值
 
-        Student stu = new Student();
+        Student stu = new Student("张三",23);
+        System.out.println(stu);//张三, 23 //重载toString()
+
         String str2 = stu.toString();
-        System.out.println(str2);//com.itheima.a04objectdemo.student@4eec7777
+        System.out.println(str2);//张三, 23
 
-        //细节:
-        System.out.println(stu);//com.itheima.a04objectdemo.student@4eec7777
 
 
         //细节:
